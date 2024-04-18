@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "preview-08"
+  annotations:
+    github.com/project-slug: vysh0x50/aws-ec2
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
